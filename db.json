@@ -2,13 +2,13 @@
   "update_focus_skills": [
     {
       "id": 1,
-      "user_id": "dcd2d941-83ea-4338-984f-16d67247ac59",
-      "skills": ["Python", "Machine Learning", "Data Analysis"]
+      "status": "success",
+      "updated_skills": ["Python", "Machine Learning", "Data Analysis"]
     },
     {
       "id": 2,
-      "user_id": "a7fff30d-5aae-40af-a631-fe2a2b082d0f",
-      "skills": ["Azure Devops", "Auditing", "Data Analysis", "Cloud Migrations"]
+      "status": "success",
+      "updated_skills": ["Azure Devops", "Auditing", "Data Analysis", "Cloud Migrations"]
     }
   ],
   "chat": [
